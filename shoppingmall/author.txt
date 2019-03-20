@@ -1,3 +1,7 @@
 test update author and email;
 test update author and email reset;
 test update author and email reset again;
+
+test update author and email;
+test update author and email reset;
+test update author and email reset again;
